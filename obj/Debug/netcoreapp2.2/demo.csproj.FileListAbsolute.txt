@@ -1,0 +1,14 @@
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/bin/Debug/netcoreapp2.2/demo.deps.json
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/bin/Debug/netcoreapp2.2/demo.runtimeconfig.json
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/bin/Debug/netcoreapp2.2/demo.runtimeconfig.dev.json
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/bin/Debug/netcoreapp2.2/demo.dll
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/bin/Debug/netcoreapp2.2/demo.pdb
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.csprojAssemblyReference.cache
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.csproj.CoreCompileInputs.cache
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.RazorAssemblyInfo.cache
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.RazorAssemblyInfo.cs
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.AssemblyInfoInputs.cache
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.AssemblyInfo.cs
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.RazorTargetAssemblyInfo.cache
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.dll
+/Users/mikepfeiffer/Desktop/demos/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.pdb
